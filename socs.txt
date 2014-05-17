@@ -62,5 +62,9 @@ Power Draw : 4 watts when operating at idle power and 13.5 watts at maximum load
 GPIO Capability :None
 Peripherals : None
 Bottom LIne: All negatives, high power consumptio, no GPIO extension, no linux etc.
+Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(Firefox OS) and Paper(USD 99)(Firefox OS) variants.
+
+
+
 
 
