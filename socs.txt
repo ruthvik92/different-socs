@@ -14,6 +14,8 @@ GPU                  : PowerVR SGX530(200MHZ) (less powerful compared to raspi)
 Online Developer support    :   Is pretty good but not as good as raspi.
 Bottom LIne:            Suitable when we require more number of IO pins
 
+
+
 Raspberry Pi(Model B)
 Cost:          35$
 CPU :  ARM11, ARMv6 ISA (not powerful than BBB but can serve our purpose)
@@ -29,13 +31,15 @@ GPU      : Broadcom VideoCore IV @ 250 MHz
 Online Developer support  : Best among all single board computers.
 Bottom LIne: Good if we  require less GPIOs and fast developing(with the help of enormous online developer base)
 
+
+
 Cosmic Board
 Cost :4,800
 Processor: ARM Cortex-A8 @ 720MHz
 RAM : 512MB DDR3 RAM
 Storage : External Micro SD card 
 Video Connections: 	1HDMI
-Operating Systems    : Linux Package
+Operating Systems    : Linux Package,embedded windows
 Power Draw :     VCC 5.0 V / 0.4 A / 2 Watts typical
                  Max. 3 Watts
 GPIO Capability :  provides 3 named GPIOs other pins can be configured to act as GPIOs
@@ -44,3 +48,19 @@ size  :1.73228X1.9685
 GPU : No
 Online Developer support : not much popular
 Bottom LIne: All the specs are good except its not popular or not having any internet resources comparable to Pi,BBB.
+
+
+
+VIA APC(8750)
+Cost:   $49
+Processor: 	WonderMedia WM8750 800MHz ARM1176JZF System-on-Chip
+RAM : DDR3 512MB Memory 
+Storage:  2GB NAND Flash 
+Video Connections: HDMI VGA
+Operating Systems :Android 2.3
+Power Draw : 4 watts when operating at idle power and 13.5 watts at maximum load
+GPIO Capability :None
+Peripherals : None
+Bottom LIne: All negatives, high power consumptio, no GPIO extension, no linux etc.
+
+
