@@ -1,0 +1,46 @@
+BeagleBone Black
+Base Price: 	        45$
+Processor: 	        1GHz TI Sitara AM3359 ARM Cortex A8(ARMV7 ISA, has a hardware FPU)
+RAM :	                512 MB DDR3L @ 400 MHz(fast memory compared to Pi)
+Storage: 	        2 GB on-board eMMC, MicroSD(much better options compared to Pi)
+Video Connections: 	1 Micro-HDMI
+Supported Resolutions: 	1280×1024 (5:4), 1024×768 (4:3), 1280×720 (16:9), 1440×900 (16:10) all at 16 bit
+Operating Systems    :	Angstrom (Default), Ubuntu, Android, ArchLinux, Gentoo, Minix, RISC OS,others…
+Power Draw 	     :   210-460 mA @ 5V under varying conditions
+GPIO Capability      :	  65 Pins
+Peripherals 	     :     1 USB Host, 1 Mini-USB Client, 1 10/100 Mbps Ethernet
+size                 :     3.4X2.098 inches
+GPU                  : PowerVR SGX530(200MHZ) (less powerful compared to raspi)
+Online Developer support    :   Is pretty good but not as good as raspi.
+Bottom LIne:            Suitable when we require more number of IO pins
+
+Raspberry Pi(Model B)
+Cost:          35$
+CPU :  ARM11, ARMv6 ISA (not powerful than BBB but can serve our purpose)
+RAM : 512 MB SDRAM 
+Storage : External Macro SD card upto 32 GB.
+Video Connections: 	1HDMI,Composite RCA (PAL and NTSC),14 HDMI resolutions from 640×350 to 1920×1200 plus various PAL and NTSC standards.
+Operating Systems:       	Arch Linux ARM, Debian GNU/Linux, Gentoo, Fedora, FreeBSD, NetBSD, Plan 9, Inferno, Raspbian OS, RISC OS,Slackware Linux
+Power Draw        :700 mA (3.5 W)
+GPIO Capability   : 8 × GPIO
+Peripherals :     UART, I²C bus, SPI.
+size      : 3.370 in × 2.205 in
+GPU      : Broadcom VideoCore IV @ 250 MHz
+Online Developer support  : Best among all single board computers.
+Bottom LIne: Good if we  require less GPIOs and fast developing(with the help of enormous online developer base)
+
+Cosmic Board
+Cost :4,800
+Processor: ARM Cortex-A8 @ 720MHz
+RAM : 512MB DDR3 RAM
+Storage : External Micro SD card 
+Video Connections: 	1HDMI
+Operating Systems    : Linux Package
+Power Draw :     VCC 5.0 V / 0.4 A / 2 Watts typical
+                 Max. 3 Watts
+GPIO Capability :  provides 3 named GPIOs other pins can be configured to act as GPIOs
+Peripherals : Three UARTs,three I²C interfaces,two SPI modules,3x SD/MMC card interfaces,Real-Time Clock
+size  :1.73228X1.9685
+GPU : No
+Online Developer support : not much popular
+Bottom LIne: All the specs are good except its not popular or not having any internet resources comparable to Pi,BBB.
