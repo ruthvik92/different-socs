@@ -91,7 +91,7 @@ RAM              : 512 MB (beta) or 1GB (final) DDR3
          
 Storage:	        4 GB NAND flash built-in, 1x microSD slot, 1x SATA port.
 Video Connections:  HDMI 1080p output   
-Operating Systems: Lubuntu Desktop      (Include desktop-v1.04 and desktop-                v1.05 and Kernel Source)
+Operating Systems: Lubuntu Desktop      (Include desktop-v1.04 and desktop-v1.05 and Kernel Source)
                              Android  (Include Android TV 1.0, Android TV 2.2)
                              Lubuntu Server(Include server-v1.01 and Kernel Source)
 
@@ -101,3 +101,21 @@ size               :      10 cm × 6 cm
 GPU                :     Mali-400MP GPU
 Online Developer support : not much, but we can consider this.
 Bottom LIne:        :  suitable to run a server and twice as powerful as raspberry 
+
+
+Intel Galileo(X86 based)
+Base Price:           70$
+Processor:   Quark SoC X1000 is a 32-bit, single core, single-thread, 
+             Pentium (P54C/i586) instruction set architecture (ISA)-compatible CPU, operating at speeds up to 400 MHz.    
+RAM :        256MB
+Storage:           MicroSD 
+Video Connections:  no video or audio output.
+Operating Systems: yocto project based linux,only support embedded operating systems
+Power Draw       : 5V and 800mA max current.
+GPIO Capability   :  Up to 6 Analog Inputs,14 Digital I/O that can be used as input or output,Up to 6 of the DI/O 
+                    can be configured as Pulse Width modulation  (PWM),
+Peripherals       :  1X I2c, 2XUART, SPI
+size               :
+GPU                :No
+Online Developer support : good and growing. 
+Bottom LIne:        :  not fit for server applications but apt for RTOS and real time applications.
