@@ -68,20 +68,20 @@ Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(F
 
 Banana Pi
 Base Price:         57$
-Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU,                      with Mali-              400MP2 GPU)
+Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU, with Mali-400MP2 GPU)
 RAM :	            1GB DDR3 SDRAM
 Storage:            1XMacro SD 1XSATA Slot
 Video Connections:  HDMI 1080p/CVBS output
-Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi                         imange and cubieboard image.
+Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi image and cubieboard image.
 Power Draw       : 5V upto 1.6A
 GPIO Capability   : same as Raspberry Pi
-Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera                    connector,Onboard IR receiver,Micphone-in
+Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera connector,Onboard IR receiver,Micphone-in
                    26 extended pins including I²C, SPI, UART, CAN
 size               : same as Pi
 GPU                : Mali-400MP2 GPU
-Online Developer support :   direct support is less than Pi but when                           using Pi OS we have enormous support. And all
-                          the hardware breakout boards of Pi will fit                             on banana.
-Bottom LIne:        :    Suitable when we require same number of GPIO                           on   RPi and more processing power.
+Online Developer support :   direct support is less than Pi but wheen using Pi OS we have enormous support. And all
+                          the hardware breakout boards of Pi will fit on banana.
+Bottom LIne:        :    Suitable when we require same number of GPIO on RPi and more processing power.
  
   
 
