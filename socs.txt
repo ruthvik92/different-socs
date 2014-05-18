@@ -4,8 +4,8 @@ Processor: 	        1GHz TI Sitara AM3359 ARM Cortex A8(ARMV7 ISA, has a hardwar
 RAM :	                512 MB DDR3L @ 400 MHz(fast memory compared to Pi)
 Storage: 	        2 GB on-board eMMC, MicroSD(much better options compared to Pi)
 Video Connections: 	1 Micro-HDMI
-Supported Resolutions: 	1280×1024 (5:4), 1024×768 (4:3), 1280×720 (16:9), 1440×900 (16:10) all at 16 bit
-Operating Systems    :	Angstrom (Default), Ubuntu, Android, ArchLinux, Gentoo, Minix, RISC OS,others…
+Supported Resolutions: 	1280ï¿½1024 (5:4), 1024ï¿½768 (4:3), 1280ï¿½720 (16:9), 1440ï¿½900 (16:10) all at 16 bit
+Operating Systems    :	Angstrom (Default), Ubuntu, Android, ArchLinux, Gentoo, Minix, RISC OS,othersï¿½
 Power Draw 	     :   210-460 mA @ 5V under varying conditions
 GPIO Capability      :	  65 Pins
 Peripherals 	     :     1 USB Host, 1 Mini-USB Client, 1 10/100 Mbps Ethernet
@@ -21,12 +21,12 @@ Cost:          35$
 CPU :  ARM11, ARMv6 ISA (not powerful than BBB but can serve our purpose)
 RAM : 512 MB SDRAM 
 Storage : External Macro SD card upto 32 GB.
-Video Connections: 	1HDMI,Composite RCA (PAL and NTSC),14 HDMI resolutions from 640×350 to 1920×1200 plus various PAL and NTSC standards.
+Video Connections: 	1HDMI,Composite RCA (PAL and NTSC),14 HDMI resolutions from 640ï¿½350 to 1920ï¿½1200 plus various PAL and NTSC standards.
 Operating Systems:       	Arch Linux ARM, Debian GNU/Linux, Gentoo, Fedora, FreeBSD, NetBSD, Plan 9, Inferno, Raspbian OS, RISC OS,Slackware Linux
 Power Draw        :700 mA (3.5 W)
-GPIO Capability   : 8 × GPIO
-Peripherals :     UART, I²C bus, SPI.
-size      : 3.370 in × 2.205 in
+GPIO Capability   : 8 ï¿½ GPIO
+Peripherals :     UART, Iï¿½C bus, SPI.
+size      : 3.370 in ï¿½ 2.205 in
 GPU      : Broadcom VideoCore IV @ 250 MHz
 Online Developer support  : Best among all single board computers.
 Bottom LIne: Good if we  require less GPIOs and fast developing(with the help of enormous online developer base)
@@ -43,7 +43,7 @@ Operating Systems    : Linux Package,embedded windows
 Power Draw :     VCC 5.0 V / 0.4 A / 2 Watts typical
                  Max. 3 Watts
 GPIO Capability :  provides 3 named GPIOs other pins can be configured to act as GPIOs
-Peripherals : Three UARTs,three I²C interfaces,two SPI modules,3x SD/MMC card interfaces,Real-Time Clock
+Peripherals : Three UARTs,three Iï¿½C interfaces,two SPI modules,3x SD/MMC card interfaces,Real-Time Clock
 size  :1.73228X1.9685
 GPU : No
 Online Developer support : not much popular
@@ -65,6 +65,25 @@ Bottom LIne: All negatives, high power consumptio, no GPIO extension, no linux e
 Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(Firefox OS) and Paper(USD 99)(Firefox OS) variants.
 
 
+
+Banana Pi
+Base Price:         57$
+Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU,                      with Mali-              400MP2 GPU)
+RAM :	            1GB DDR3 SDRAM
+Storage:            1XMacro SD 1XSATA Slot
+Video Connections:  HDMI 1080p/CVBS output
+Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi                         imange and cubieboard image.
+Power Draw       : 5V upto 1.6A
+GPIO Capability   : same as Raspberry Pi
+Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera                    connector,Onboard IR receiver,Micphone-in
+                   26 extended pins including IÂ²C, SPI, UART, CAN
+size               : same as Pi
+GPU                : Mali-400MP2 GPU
+Online Developer support :   direct support is less than Pi but when                           using Pi OS we have enormous support. And all
+                          the hardware breakout boards of Pi will fit                             on banana.
+Bottom LIne:        :    Suitable when we require same number of GPIO                           on   RPi and more processing power.
+ 
+  
 
 
 
