@@ -115,7 +115,7 @@ Power Draw       : 5V and 800mA max current.
 GPIO Capability   :  Up to 6 Analog Inputs,14 Digital I/O that can be used as input or output,Up to 6 of the DI/O 
                     can be configured as Pulse Width modulation  (PWM),
 Peripherals       :  1X I2c, 2XUART, SPI
-size               :
+size               :  10cm x 7cm 
 GPU                :No
 Online Developer support : good and growing. 
 Bottom LIne:        :  not fit for server applications but apt for RTOS and real time applications.
