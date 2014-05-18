@@ -76,14 +76,28 @@ Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi image and cu
 Power Draw       : 5V upto 1.6A
 GPIO Capability   : same as Raspberry Pi
 Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera connector,Onboard IR receiver,Micphone-in
-                   26 extended pins including I²C, SPI, UART, CAN
+                                      26 extended pins including I²C, SPI, UART, CAN
 size               : same as Pi
 GPU                : Mali-400MP2 GPU
 Online Developer support :   direct support is less than Pi but wheen using Pi OS we have enormous support. And all
                           the hardware breakout boards of Pi will fit on banana.
 Bottom LIne:        :    Suitable when we require same number of GPIO on RPi and more processing power.
- 
-  
 
+CubieBoard:       
 
+Base Price    :          72$
+Processor     :            AllWinner A10 SoC (ARM Cortex-A8 @ 1 GHz CPU, with Mali-400MP GPU and CedarX VPU able to decode 2160p quadHD video)
+RAM              : 512 MB (beta) or 1GB (final) DDR3
+         
+Storage:	        4 GB NAND flash built-in, 1x microSD slot, 1x SATA port.
+Video Connections:  HDMI 1080p output   
+Operating Systems: Lubuntu Desktop      (Include desktop-v1.04 and desktop-                v1.05 and Kernel Source)
+                             Android  (Include Android TV 1.0, Android TV 2.2)
+                             Lubuntu Server(Include server-v1.01 and Kernel Source)
 
+Power Draw       :     5V DC, 2A
+GPIO Capability and Peripherals  : 96 extend pin including I²C, SPI, LVDS
+size               :      10 cm × 6 cm
+GPU                :     Mali-400MP GPU
+Online Developer support : not much, but we can consider this.
+Bottom LIne:        :  suitable to run a server and twice as powerful as raspberry 
