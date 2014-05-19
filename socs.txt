@@ -66,5 +66,5 @@ Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(F
 
 
 
-
+Cubie Board:
 
