@@ -1,4 +1,4 @@
-BeagleBone Black
+BEAGLE BONE BLACK:
 Base Price: 	        45$
 Processor: 	        1GHz TI Sitara AM3359 ARM Cortex A8(ARMV7 ISA, has a hardware FPU)
 RAM :	                512 MB DDR3L @ 400 MHz(fast memory compared to Pi)
@@ -16,7 +16,7 @@ Bottom LIne:            Suitable when we require more number of IO pins
 
 
 
-Raspberry Pi(Model B)
+RASPBERRY PI(MODEL B):
 Cost:          35$
 CPU :  ARM11, ARMv6 ISA (not powerful than BBB but can serve our purpose)
 RAM : 512 MB SDRAM 
@@ -33,7 +33,7 @@ Bottom LIne: Good if we  require less GPIOs and fast developing(with the help of
 
 
 
-Cosmic Board
+COSMIC BOARD:
 Cost :4,800
 Processor: ARM Cortex-A8 @ 720MHz
 RAM : 512MB DDR3 RAM
@@ -51,7 +51,7 @@ Bottom LIne: All the specs are good except its not popular or not having any int
 
 
 
-VIA APC(8750)
+VIA APC(8750):
 Cost:   $49
 Processor: 	WonderMedia WM8750 800MHz ARM1176JZF System-on-Chip
 RAM : DDR3 512MB Memory 
@@ -66,7 +66,7 @@ Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(F
 
 
 
-Banana Pi
+BANANA PI:
 Base Price:         57$
 Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU, with Mali-400MP2 GPU)
 RAM :	            1GB DDR3 SDRAM
@@ -83,7 +83,7 @@ Online Developer support :   direct support is less than Pi but wheen using Pi O
                           the hardware breakout boards of Pi will fit on banana.
 Bottom LIne:        :    Suitable when we require same number of GPIO on RPi and more processing power.
 
-CubieBoard:       
+CUBIEBOARD:      
 
 Base Price    :          72$
 Processor     :            AllWinner A10 SoC (ARM Cortex-A8 @ 1 GHz CPU, with Mali-400MP GPU and CedarX VPU able to decode 2160p quadHD video)
@@ -103,7 +103,7 @@ Online Developer support : not much, but we can consider this.
 Bottom LIne:        :  suitable to run a server and twice as powerful as raspberry 
 
 
-Intel Galileo(X86 based)
+INTEL GALILEO(X86 BASED):
 Base Price:           70$
 Processor:   Quark SoC X1000 is a 32-bit, single core, single-thread, 
              Pentium (P54C/i586) instruction set architecture (ISA)-compatible CPU, operating at speeds up to 400 MHz.    
@@ -119,3 +119,43 @@ size               :  10cm x 7cm
 GPU                :No
 Online Developer support : good and growing. 
 Bottom LIne:        :  not fit for server applications but apt for RTOS and real time applications.
+
+
+UDOO BOARD:
+Base Price:  $115.00
+
+Processor: CPU Freescale i.MX 6 ARM Cortex-A9 Dual core 1GHz,
+              Integrated accelerators for 2D, OpenGL ES2.0 3D and OpenVG
+RAM :     RAM DDR3 1GB 
+
+Storage: 2 Micro USB
+ 
+Video Connections: HDMI and LVDS + Touch 
+
+Operating Systems: Linaro, version 11.10,Android 4.2.2, Yocto is supported
+
+Power Draw       : around 3W (12V,2A supply)
+
+GPIO Capability   : 76 fully available GPIO: 62 digital + 14 digital/analog
+
+Peripherals       :spi, i2c, i2s, audiomux, pwms output, UARTs(configurable)
+
+size                     :  4.33 inch x 3.35 inch
+
+GPU                      : GPU Vivante GC 880 + Vivante GC 320
+
+Online Developer support : Its good, can expect more as it is arduino compatible
+
+Bottom LIne:             : Its like big brother of all Single Board Computers, it has Yocto compatibility, it can run LInux
+                             arduino compatible, everything packed in a 115$ PCB.
+
+
+
+
+
+
+
+
+
+
+
