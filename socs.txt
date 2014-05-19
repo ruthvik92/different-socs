@@ -66,6 +66,8 @@ Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(F
 
 
 
+
+
 BANANA PI:
 Base Price:         57$
 Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU, with Mali-400MP2 GPU)
@@ -75,13 +77,14 @@ Video Connections:  HDMI 1080p/CVBS output
 Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi image and cubieboard image.
 Power Draw       : 5V upto 1.6A
 GPIO Capability   : same as Raspberry Pi
-Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera connector,Onboard IR receiver,Micphone-in
-                                      26 extended pins including I²C, SPI, UART, CAN
+Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera connector,Onboard IR receiver,Micphone-in 26 extended pins including I²C, SPI, UART, CAN
 size               : same as Pi
 GPU                : Mali-400MP2 GPU
 Online Developer support :   direct support is less than Pi but wheen using Pi OS we have enormous support. And all
                           the hardware breakout boards of Pi will fit on banana.
 Bottom LIne:        :    Suitable when we require same number of GPIO on RPi and more processing power.
+
+
 
 CUBIEBOARD:      
 
@@ -103,6 +106,8 @@ Online Developer support : not much, but we can consider this.
 Bottom LIne:        :  suitable to run a server and twice as powerful as raspberry 
 
 
+
+
 INTEL GALILEO(X86 BASED):
 Base Price:           70$
 Processor:   Quark SoC X1000 is a 32-bit, single core, single-thread, 
@@ -119,6 +124,8 @@ size               :  10cm x 7cm
 GPU                :No
 Online Developer support : good and growing. 
 Bottom LIne:        :  not fit for server applications but apt for RTOS and real time applications.
+
+
 
 
 UDOO BOARD:
