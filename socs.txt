@@ -82,7 +82,7 @@ size               : same as Pi
 GPU                : Mali-400MP2 GPU
 Online Developer support :   direct support is less than Pi but wheen using Pi OS we have enormous support. And all
                           the hardware breakout boards of Pi will fit on banana.
-Bottom LIne:        :    Suitable when we require same number of GPIO on RPi and more processing power.
+Bottom LIne:        :    Suitable when we require same number of GPIO as on RPi and more processing power.
 
 
 
