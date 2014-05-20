@@ -1,11 +1,11 @@
-BeagleBone Black
+BEAGLE BONE BLACK:
 Base Price: 	        45$
 Processor: 	        1GHz TI Sitara AM3359 ARM Cortex A8(ARMV7 ISA, has a hardware FPU)
 RAM :	                512 MB DDR3L @ 400 MHz(fast memory compared to Pi)
 Storage: 	        2 GB on-board eMMC, MicroSD(much better options compared to Pi)
 Video Connections: 	1 Micro-HDMI
-Supported Resolutions: 	1280×1024 (5:4), 1024×768 (4:3), 1280×720 (16:9), 1440×900 (16:10) all at 16 bit
-Operating Systems    :	Angstrom (Default), Ubuntu, Android, ArchLinux, Gentoo, Minix, RISC OS,others…
+Supported Resolutions: 	1280ï¿½1024 (5:4), 1024ï¿½768 (4:3), 1280ï¿½720 (16:9), 1440ï¿½900 (16:10) all at 16 bit
+Operating Systems    :	Angstrom (Default), Ubuntu, Android, ArchLinux, Gentoo, Minix, RISC OS,othersï¿½
 Power Draw 	     :   210-460 mA @ 5V under varying conditions
 GPIO Capability      :	  65 Pins
 Peripherals 	     :     1 USB Host, 1 Mini-USB Client, 1 10/100 Mbps Ethernet
@@ -16,24 +16,24 @@ Bottom LIne:            Suitable when we require more number of IO pins
 
 
 
-Raspberry Pi(Model B)
+RASPBERRY PI(MODEL B):
 Cost:          35$
 CPU :  ARM11, ARMv6 ISA (not powerful than BBB but can serve our purpose)
 RAM : 512 MB SDRAM 
 Storage : External Macro SD card upto 32 GB.
-Video Connections: 	1HDMI,Composite RCA (PAL and NTSC),14 HDMI resolutions from 640×350 to 1920×1200 plus various PAL and NTSC standards.
+Video Connections: 	1HDMI,Composite RCA (PAL and NTSC),14 HDMI resolutions from 640ï¿½350 to 1920ï¿½1200 plus various PAL and NTSC standards.
 Operating Systems:       	Arch Linux ARM, Debian GNU/Linux, Gentoo, Fedora, FreeBSD, NetBSD, Plan 9, Inferno, Raspbian OS, RISC OS,Slackware Linux
 Power Draw        :700 mA (3.5 W)
-GPIO Capability   : 8 × GPIO
-Peripherals :     UART, I²C bus, SPI.
-size      : 3.370 in × 2.205 in
+GPIO Capability   : 8 ï¿½ GPIO
+Peripherals :     UART, Iï¿½C bus, SPI.
+size      : 3.370 in ï¿½ 2.205 in
 GPU      : Broadcom VideoCore IV @ 250 MHz
 Online Developer support  : Best among all single board computers.
 Bottom LIne: Good if we  require less GPIOs and fast developing(with the help of enormous online developer base)
 
 
 
-Cosmic Board
+COSMIC BOARD:
 Cost :4,800
 Processor: ARM Cortex-A8 @ 720MHz
 RAM : 512MB DDR3 RAM
@@ -43,7 +43,7 @@ Operating Systems    : Linux Package,embedded windows
 Power Draw :     VCC 5.0 V / 0.4 A / 2 Watts typical
                  Max. 3 Watts
 GPIO Capability :  provides 3 named GPIOs other pins can be configured to act as GPIOs
-Peripherals : Three UARTs,three I²C interfaces,two SPI modules,3x SD/MMC card interfaces,Real-Time Clock
+Peripherals : Three UARTs,three Iï¿½C interfaces,two SPI modules,3x SD/MMC card interfaces,Real-Time Clock
 size  :1.73228X1.9685
 GPU : No
 Online Developer support : not much popular
@@ -51,7 +51,7 @@ Bottom LIne: All the specs are good except its not popular or not having any int
 
 
 
-VIA APC(8750)
+VIA APC(8750):
 Cost:   $49
 Processor: 	WonderMedia WM8750 800MHz ARM1176JZF System-on-Chip
 RAM : DDR3 512MB Memory 
@@ -67,4 +67,102 @@ Note: Extra GPIO, SPI and I2C busses on a header are available on Rock(USD 59)(F
 
 
 Cubie Board:
+
+BANANA PI:
+Base Price:         57$
+Processor:          Allwinner A20 SoC (ARM Cortex-A7 Dual-Core CPU, with Mali-400MP2 GPU)
+RAM :	            1GB DDR3 SDRAM
+Storage:            1XMacro SD 1XSATA Slot
+Video Connections:  HDMI 1080p/CVBS output
+Operating Systems:  Android,Debian linux,Ubuntu linux, Raspberry Pi image and cubieboard image.
+Power Draw       : 5V upto 1.6A
+GPIO Capability   : same as Raspberry Pi
+Peripherals       :2x USB Host, 1x USB OTG, 1x CSI camera connector,Onboard IR receiver,Micphone-in 26 extended pins including IÂ²C, SPI, UART, CAN
+size               : same as Pi
+GPU                : Mali-400MP2 GPU
+Online Developer support :   direct support is less than Pi but wheen using Pi OS we have enormous support. And all
+                          the hardware breakout boards of Pi will fit on banana.
+Bottom LIne:        :    Suitable when we require same number of GPIO as on RPi and more processing power.
+
+
+
+CUBIEBOARD:      
+
+Base Price    :          72$
+Processor     :            AllWinner A10 SoC (ARM Cortex-A8 @ 1 GHz CPU, with Mali-400MP GPU and CedarX VPU able to decode 2160p quadHD video)
+RAM              : 512 MB (beta) or 1GB (final) DDR3
+         
+Storage:	        4 GB NAND flash built-in, 1x microSD slot, 1x SATA port.
+Video Connections:  HDMI 1080p output   
+Operating Systems: Lubuntu Desktop      (Include desktop-v1.04 and desktop-v1.05 and Kernel Source)
+                             Android  (Include Android TV 1.0, Android TV 2.2)
+                             Lubuntu Server(Include server-v1.01 and Kernel Source)
+
+Power Draw       :     5V DC, 2A
+GPIO Capability and Peripherals  : 96 extend pin including IÂ²C, SPI, LVDS
+size               :      10 cm Ã— 6 cm
+GPU                :     Mali-400MP GPU
+Online Developer support : not much, but we can consider this.
+Bottom LIne:        :  suitable to run a server and twice as powerful as raspberry 
+
+
+
+
+INTEL GALILEO(X86 BASED):
+Base Price:           70$
+Processor:   Quark SoC X1000 is a 32-bit, single core, single-thread, 
+             Pentium (P54C/i586) instruction set architecture (ISA)-compatible CPU, operating at speeds up to 400 MHz.    
+RAM :        256MB
+Storage:           MicroSD 
+Video Connections:  no video or audio output.
+Operating Systems: yocto project based linux,only support embedded operating systems
+Power Draw       : 5V and 800mA max current.
+GPIO Capability   :  Up to 6 Analog Inputs,14 Digital I/O that can be used as input or output,Up to 6 of the DI/O 
+                    can be configured as Pulse Width modulation  (PWM),
+Peripherals       :  1X I2c, 2XUART, SPI
+size               :  10cm x 7cm 
+GPU                :No
+Online Developer support : good and growing. 
+Bottom LIne:        :  not fit for server applications but apt for RTOS and real time applications.
+
+
+
+
+UDOO BOARD:
+Base Price:  $115.00
+
+Processor: CPU Freescale i.MX 6 ARM Cortex-A9 Dual core 1GHz,
+              Integrated accelerators for 2D, OpenGL ES2.0 3D and OpenVG
+RAM :     RAM DDR3 1GB 
+
+Storage: 2 Micro USB
+ 
+Video Connections: HDMI and LVDS + Touch 
+
+Operating Systems: Linaro, version 11.10,Android 4.2.2, Yocto is supported
+
+Power Draw       : around 3W (12V,2A supply)
+
+GPIO Capability   : 76 fully available GPIO: 62 digital + 14 digital/analog
+
+Peripherals       :spi, i2c, i2s, audiomux, pwms output, UARTs(configurable)
+
+size                     :  4.33 inch x 3.35 inch
+
+GPU                      : GPU Vivante GC 880 + Vivante GC 320
+
+Online Developer support : Its good, can expect more as it is arduino compatible
+
+Bottom LIne:             : Its like big brother of all Single Board Computers, it has Yocto compatibility, it can run LInux
+                             arduino compatible, everything packed in a 115$ PCB.
+
+
+
+
+
+
+
+
+
+
 
