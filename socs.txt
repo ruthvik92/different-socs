@@ -159,10 +159,36 @@ Bottom LIne:             : Its like big brother of all Single Board Computers, i
 
 
 
+RIOT BOARD
+
+Base Price:      Rs.6,244.00(110$ approx.)
+
+Processor:      ARM Cortex-A9 MPCore processor at 1GHz
+
+RAM       :            1GB of 16bit wide DDR3 at 800MHz
+
+Storage:               4GB eMMC
+
+Video Connections:      HDMI 1080p
+
+Operating Systems:  Android OS 
+                     Linux OS 
+
+Power Draw       :       A 5V/4A AC-to-DC power supply
+
+GPIO Capability   :   10x GPIOs
 
 
+Peripherals       : 3x UART, 2x I2C, 2x SPI, 3x PWM
+
+size              :    75mm x 120mm.
+
+GPU                :    MX 6Solo processor
+
+Online Developer support : not great
 
 
+Bottom LIne:  much above our utilisation scale because it has graphics.
 
 
 
